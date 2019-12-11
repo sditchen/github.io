@@ -1,0 +1,70 @@
+html {background-image: url(images/sushi.png);
+}
+
+body {
+      width: 700px;
+      padding: 50px;
+      margin-top: 30px;
+      margin-left: auto;
+      margin-right: auto;
+
+      text-align: left;
+      font-family: Arial, Helvetica, sans-serif;
+
+      border: 8px dashed #623A48;
+      background-color: #FABEBE;
+}
+
+a {
+  font-size: 1.0em;
+  color: #f25278;
+  text-decoration: none;
+  border-bottom: 1px dotted #f25278;
+}
+
+a hover {
+  color: #FFBA10;
+  border-bottom: 1px #6FBBBA;
+}
+
+h1 {
+  font-family: Times, Garamond, Serif;
+  font-size: 2.0em;
+  color: #f25278;
+  border-top: 1px dotted #ffffff;
+  border-bottom: 1px dotted #ffffff;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.5em;
+  color: #FE7D6A;
+}
+
+h3 {
+  font-size: 0.8em;
+  color: #623A48;
+  text-transform: uppercase;
+}
+
+
+p {
+    color: #919191;
+    font-size: 0.8em;
+    line-height: 1.0em;
+}
+
+ul,ol {
+  color: #515151;
+  font-size: 0.8em;
+  line-height: 1.5em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: medium solid #FE7D6A;
+  box-shadow: 3px 3px 3px rgba(0,0,0,.3);
+}

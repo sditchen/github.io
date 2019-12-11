@@ -1,0 +1,38 @@
+html {background-image: url(images/night.png);
+}
+
+body {
+      height: 575px;
+      width: 400px;
+      padding: 50px;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+
+      text-align: center;
+      font-family: Times, Garamond, Serif;
+
+      border: 15px dotted #845271;
+      background-color: #f0b2b7;
+}
+
+h1 {
+  font-family: Times, Garamond, Serif;
+  font-size: 1.5em;
+  color: #cd3d2b;
+  border-top: 1px dotted #ef969d;
+  border-bottom: 1px dotted #ef969d;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.3em;
+  color: #5b6e4f;
+}
+
+p {
+    color: #845271;
+    font-size: 0.8em;
+    line-height: 1.5em;
+}
